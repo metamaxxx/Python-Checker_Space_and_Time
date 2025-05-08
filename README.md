@@ -24,7 +24,7 @@ pip install aiohttp
   
   Пример содержимого:
   ```
-  0x1046394aBFfeec81Be8C48136745A4a46917CcbC
+  0xAnotherWalletAddressHere
   0xAnotherWalletAddressHere
   ```
 
